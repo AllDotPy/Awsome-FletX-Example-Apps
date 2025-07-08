@@ -48,17 +48,6 @@ Make sure to include:
 
 ---
 
-## 📁 Categories
-
-- 📱 Mobile & Desktop Apps
-- 🧪 Experiments & Demos
-- 📊 Dashboards & Data Tools
-- 🎮 Games & Interactive UIs
-- ⚙️ Tools & Utilities
-- 🧩 FletX & Flet Plugins and Extensions
-
----
-
 ## 📦 Featured Projects
 
 | Name | Description | Built with |
