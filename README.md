@@ -17,10 +17,11 @@ To inspire, learn, and showcase the creative potential of building full-featured
 
 ## 📚 Resources
 
+- [FletX Documentation](https://alldotpy.github.io/FletX/)
+- [FletX GitHub](https://github.com/AllDotPy/FletX)
 - [Flet Documentation](https://flet.dev)
 - [Flet GitHub](https://github.com/flet-dev/flet)
 - [Flet Examples](https://flet-controls-gallery.fly.dev)
-- [FletX GitHub](https://github.com/AllDotPy/FletX)
 
   ---
 
@@ -63,7 +64,7 @@ Make sure to include:
 | Name | Description | Built with |
 |------|-------------|-------------|
 | [fletx-routing-sample-app](https://github.com/Wgoeh/fletx-routing-sample-app) | A small demo app showing how navigation works in FletX. | Flet + FletX |
-| [fletx-news-app](https://github.com/Wgoeh/fletx-news-app) | A small demo app | Flet + FletX|
+| [fletx-news-app](https://github.com/Wgoeh/fletx-news-app) | A simple News Application made with flet and FletX and News API.  | Flet + FletX|
 <!-- Uncomment this line to add your project
 <!--| [Another App](#link) | A productivity tool made with FletX | FletX / Flet | -->
 
